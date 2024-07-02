@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import ttk
 
 # Define the OpenSky API URL
-opensky_api_url = "https://opensky-network.org/api/states/all"
+opensky_api_url = "YOUR-API"
 
 # Example dictionary mapping ICAO24 prefixes to country names
 icao24_to_country = {
